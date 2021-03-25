@@ -1,0 +1,9 @@
+.wrapper-containers {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.wrapper-containers .form-group {
+  width: 60%;
+  margin: 10px auto;
+}
